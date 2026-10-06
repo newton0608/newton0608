@@ -1,0 +1,22 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="20" x2="1130" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1324"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="310" y1="0" x2="890" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1025" cy="52" r="145" fill="#58A6FF" fill-opacity=".08"/>
+  <circle cx="190" cy="270" r="180" fill="#8B5CF6" fill-opacity=".07"/>
+  <path d="M0 252C206 210 346 288 555 242C761 197 928 222 1200 166V300H0V252Z" fill="#FFFFFF" fill-opacity=".025"/>
+  <rect x="418" y="82" width="364" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="600" y="151" text-anchor="middle" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="1">ISAAC AIFAN</text>
+  <text x="600" y="197" text-anchor="middle" fill="#9DA7B3" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="3">BACKEND • .NET • SYSTEMS ENGINEERING</text>
+  <text x="600" y="239" text-anchor="middle" fill="#58A6FF" font-family="monospace" font-size="18">newton0608@github:~$ build something useful_</text>
+</svg>
